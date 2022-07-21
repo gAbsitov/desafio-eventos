@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: wheat;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background-color: #262730;
+}
+
+main{
+    padding: 30px;
+    background-color: #262730;
+}
+
+p{
+    margin: 20px auto;
+    width: 80%;
+    font-size: 12px;
+}
+
+.boton1{
+    margin: auto;
+    background-color: #262730;
+    width: 400px;
+    height: 400px;
+    border: 2px solid #77BA99;
+    border-radius: 50%;
+}
+
+.resultado{
+    margin: 190px 0px;
+    text-align: center;
+    font-size: 20px;
+    color: #262730;
+}
+
+.cambiarRojo{
+    background-color: #D33F49;
+}
+.cambiarVerde{
+    background-color: #77BA99;
+}
+.cambiarLila{
+    background-color: #910e69;
+}
